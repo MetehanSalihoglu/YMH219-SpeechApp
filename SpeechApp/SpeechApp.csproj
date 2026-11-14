@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>SpeechApp</RootNamespace>
+    <AssemblyName>SpeechApp</AssemblyName>
+    <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+    <NoWarn>$(NoWarn);CS8618;CS8669</NoWarn>
+    <Authors>Metehan Salihoğlu</Authors>
+  </PropertyGroup>
+
+</Project>

@@ -13,4 +13,8 @@
     <Authors>Metehan Salihoğlu</Authors>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Speech" Version="10.0.0" />
+  </ItemGroup>
+
 </Project>
